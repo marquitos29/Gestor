@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+
+<MenuBar xmlns="http://javafx.com/javafx/23" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.gestor_marcos.controller.MenuController">
+    <menus>
+        <Menu text="Opciones">
+            <MenuItem fx:id="menuInicio" text="Inicio" />
+            <MenuItem fx:id="menuSalir" text="Salir" />
+        </Menu>
+    </menus>
+</MenuBar>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<BorderPane prefHeight="400.0" prefWidth="500.0" xmlns="http://javafx.com/javafx/23" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.gestor_marcos.controller.ProfesorController">
+    <top>
+        <VBox alignment="CENTER" spacing="10.0" BorderPane.alignment="CENTER">
+            <children>
+                <Label fx:id="lblBienvenido" style="-fx-font-size: 18px; -fx-font-weight: bold;" />
+                <Label style="-fx-font-size: 14px;" text="Cursos asignados:" />
+            </children>
+        </VBox>
+    </top>
+    <center>
+        <TableView fx:id="tableAlumnos" prefHeight="300.0" prefWidth="500.0">
+            <columns>
+                <TableColumn text="Alumno" fx:id="colAlumno"/>
+                <TableColumn text="Nota" fx:id="colNota"/>
+            </columns>
+        </TableView>
+    </center>
+    <bottom>
+        <HBox alignment="CENTER" spacing="20.0" BorderPane.alignment="CENTER">
+            <children>
+                <Button fx:id="btnCerrarSesion" text="Cerrar Sesión" />
+                <Button fx:id="btnEliminarAlumno" text="Eliminar Alumno" />
+                <Button fx:id="btnModificar" text="Modificar Nota" />
+            </children>
+        </HBox>
+    </bottom>
+
+    <padding>
+      <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+   </padding>
+</BorderPane>

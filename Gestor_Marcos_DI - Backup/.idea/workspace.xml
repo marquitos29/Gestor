@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e5c83fae-9adc-484a-997b-d070254e5b8c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Calculadora/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculadora/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculadora/src/main/java/com/example/calculadora/HistorialController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculadora/src/main/resources/com/example/calculadora/CalculadoraCientifica.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen1012_MBB/src/main/java/com/example/examen1012_mbb/ApiClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen1012_MBB/src/main/java/com/example/examen1012_mbb/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen1012_MBB/src/main/java/com/example/examen1012_mbb/Villain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen1012_MBB/src/main/resources/com/example/examen1012_mbb/main-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestor/src/main/resources/org/example/gestor/admin-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestor/src/main/resources/org/example/gestor/guest-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestor/src/main/resources/org/example/gestor/user-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestor_Marcos_DI/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestor_Marcos_DI/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestor_Marcos_DI/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestor_Marcos_DI/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestor_Marcos_DI/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestor_Marcos_DI/src/main/java/org/example/gestor_marcos/controller/CargaController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestor_Marcos_DI/src/main/java/org/example/gestor_marcos/controller/LibrosController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestor_Marcos_DI/src/main/java/org/example/gestor_marcos/controller/RegisterController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestor_Marcos_DI/src/main/java/org/example/gestor_marcos/dao/ApiDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestor_Marcos_DI/src/main/java/org/example/gestor_marcos/dao/UsuarioDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestor_Marcos_DI/src/main/java/org/example/gestor_marcos/database/DBConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestor_Marcos_DI/src/main/java/org/example/gestor_marcos/database/DBSchema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestor_Marcos_DI/src/main/java/org/example/gestor_marcos/model/AlertaCarga.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestor_Marcos_DI/src/main/java/org/example/gestor_marcos/model/Alumno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestor_Marcos_DI/src/main/java/org/example/gestor_marcos/model/Libro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestor_Marcos_DI/src/main/java/org/example/gestor_marcos/model/NotasManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestor_Marcos_DI/src/main/java/org/example/gestor_marcos/model/Profesor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestor_Marcos_DI/src/main/resources/carga-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestor_Marcos_DI/src/main/resources/libros-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestor_Marcos_DI/src/main/resources/register-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MbbCinco/src/main/java/com/example/mbbcinco/DAO/UsuarioDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MbbCinco/src/main/java/com/example/mbbcinco/gestion/DBConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MbbCinco/src/main/java/com/example/mbbcinco/gestion/DBSchema.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calculadora/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calculadora/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Calculadora/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calculadora/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Calculadora/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calculadora/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Calculadora/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calculadora/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Calculadora/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calculadora/src/main/java/org/example/calculadora/HelloApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calculadora/src/main/java/org/example/calculadora/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calculadora/src/main/resources/org/example/calculadora/hello-view.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gestor/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Gestor/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gestor/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Gestor/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gestor/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Gestor/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gestor/src/main/java/org/example/gestor/LoginController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gestor/src/main/java/org/example/gestor/WelcomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gestor/src/main/resources/org/example/gestor/login-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../Gestor/src/main/resources/org/example/gestor/login-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gestor/src/main/resources/org/example/gestor/welcome-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../Gestor/src/main/resources/org/example/gestor/welcome-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inicio/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../inicio/.idea/misc.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2plD9UKsmCIidKAX216k6wzYcch" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Application.MyApp.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mbarr/OneDrive - Interpublic/Escritorio/Marcos/Informatica/Retamar/DAM 2/DI/DI-Marcos-Barrio/1º Evaluación/T.2 - JAVAFX/Gestor_Marcos_DI - Backup&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mbarr\OneDrive - Interpublic\Escritorio\Marcos\Informatica\Retamar\DAM 2\DI\DI-Marcos-Barrio\1º Evaluación\T.2 - JAVAFX\Gestor_Marcos_DI\src\main\resources" />
+      <recent name="C:\Users\mbarr\OneDrive - Interpublic\Escritorio\Marcos\Informatica\Retamar\DAM 2\DI\DI-Marcos-Barrio\1º Evaluación\T.2 - JAVAFX\Gestor_Marcos_DI\src\main\resources\org\example\gestor_marcos" />
+      <recent name="C:\Users\mbarr\OneDrive - Interpublic\Escritorio\Marcos\Informatica\Retamar\DAM 2\DI\DI-Marcos-Barrio\1º Evaluación\T.2 - JAVAFX\Gestor_Marcos_DI\src\main\resources\org\example" />
+      <recent name="C:\Users\mbarr\OneDrive - Interpublic\Escritorio\Marcos\Informatica\Retamar\DAM 2\DI\DI-Marcos-Barrio\1º Evaluación\T.2 - JAVAFX\Gestor_Marcos_DI\src\main\java\org\example\gestor_marcos" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="org.example.gestor_marcos.controller" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MyApp" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="org.example.gestor_marcos.MyApp" />
+      <module name="Gestor_Marcos_DI" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5c83fae-9adc-484a-997b-d070254e5b8c" name="Changes" comment="" />
+      <created>1733331620316</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733331620316</updated>
+    </task>
+    <servers />
+  </component>
+</project>
